@@ -28,6 +28,8 @@ My name is Rolandas Siksnelis and I am fullstack JS web developer from Vilnius, 
        src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
      />
   </a>
+</p>
+<p>
   <a href="https://mail.google.com/mail/?view=cm&to=r.siksnelis@gmail.com">
     <img
       alt="Gmail"
@@ -35,7 +37,6 @@ My name is Rolandas Siksnelis and I am fullstack JS web developer from Vilnius, 
       />
   </a>
 </p>
-
 ---
 
 ### GitHub stats
