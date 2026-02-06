@@ -30,7 +30,7 @@ My name is Rolandas Siksnelis and I am fullstack JS web developer from Vilnius, 
   </a>
 </p>
 <p>
-  <a href="https://gmail.com/in/r.siksnelis@gmail.com/">
+  <a href="https://gmail.com/in/r.siksnelis@gmail.com/" target="_blank" type="button">
     <img
       alt="Gmail"
       src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png"
