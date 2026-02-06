@@ -28,7 +28,7 @@ My name is Rolandas Siksnelis and I am fullstack JS web developer from Vilnius, 
        src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
      />
   </a>
-  <a href="mailto:r.siksnelis@gmail.com">Email Rolandas Siksnelis>
+  <a href="https://mail.google.com/mail/?view=cm&to=yourname@gmail.com">
     <img
       alt="Gmail"
       src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png"
